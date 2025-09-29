@@ -13,14 +13,15 @@ StudyBunny is a study session management tool that helps students:
 
 ## My Role & Contributions
 
+- **React Development**: Built a modern, component-based React application
 - **Full-stack development**: Designed and implemented the entire application
-- **UI/UX Design**: Created an intuitive and engaging user interface
+- **UI/UX Design**: Created an intuitive and engaging user interface with React components
 - **Feature implementation**: Built core functionality including timers, progress tracking, and data persistence
 - **Testing**: Conducted thorough testing to ensure reliability and user experience
 
 ## Tech Stack
 
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+)
+- **Frontend**: React.js, HTML5, CSS3, JavaScript (ES6+)
 - **Backend**: Node.js, Express.js
 - **Database**: Local storage / JSON file storage
 - **Styling**: CSS3 with responsive design
@@ -46,8 +47,10 @@ Check out the demo video: `../media/StudyBunny-demo.mp4`
 
 1. Clone the repository
 2. Navigate to the project directory
-3. Open `index.html` in your web browser
-4. Start studying with your bunny companion!
+3. Install dependencies: `npm install`
+4. Start the development server: `npm start`
+5. Open your browser to the provided URL
+6. Start studying with your bunny companion!
 
 ## Future Enhancements
 
