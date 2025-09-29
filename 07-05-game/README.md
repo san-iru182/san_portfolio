@@ -29,7 +29,7 @@ The 07-05 Game is a browser-based interactive experience that challenges players
 
 ## Demo
 
-Check out the demo video: `../media/07-05-game.gif`
+Check out the demo video: `../media/07-05-game-demo.mp4`
 
 ## Repository
 
