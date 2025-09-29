@@ -29,7 +29,7 @@ The 07-05 Game is a browser-based interactive experience that challenges players
 
 ## Demo
 
-Check out the demo video: `../media/07-05-game-demo.mp4`
+🎬 **Demo Video**: [Watch 07-05 Game Demo](https://drive.google.com/file/d/YOUR_VIDEO_ID/view) - *Upload your demo video to Google Drive and replace YOUR_VIDEO_ID with the actual file ID*
 
 ## Repository
 

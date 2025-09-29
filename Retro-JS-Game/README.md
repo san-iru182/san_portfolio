@@ -30,7 +30,7 @@ This project recreates the beloved 1982 arcade game Q*Bert in pure JavaScript, f
 
 ## Demo
 
-Check out the demo video: `../media/Retro-JS-Game-demo.mp4`
+🎬 **Demo Video**: [Watch Q*Bert Demo](https://drive.google.com/file/d/YOUR_VIDEO_ID/view) - *Upload your demo video to Google Drive and replace YOUR_VIDEO_ID with the actual file ID*
 
 **Note**: This project was developed as a learning exercise and the repository is no longer publicly accessible. The demo video showcases the complete gameplay experience and technical implementation.
 

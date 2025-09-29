@@ -38,7 +38,7 @@ StudyBunny is an advanced study management platform that helps students:
 
 ## Demo
 
-Check out the demo video: `../media/StudyBunny-demo.mp4`
+🎬 **Demo Video**: [Watch StudyBunny Demo](https://drive.google.com/file/d/YOUR_VIDEO_ID/view) - *Upload your demo video to Google Drive and replace YOUR_VIDEO_ID with the actual file ID*
 
 ## Repository
 

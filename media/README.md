@@ -4,9 +4,11 @@ This folder contains demo videos for the portfolio projects.
 
 ## Demo Videos
 
-- `StudyBunny-demo.mp4` - StudyBunny application demonstration
-- `07-05-game-demo.mp4` - 07-05 Game gameplay showcase
-- `Retro-JS-Game-demo.mp4` - Q*Bert recreation gameplay
+Demo videos are hosted externally and linked in each project's README:
+
+- **StudyBunny Demo** - Linked in StudyBunny README
+- **07-05 Game Demo** - Linked in 07-05-game README  
+- **Q*Bert Demo** - Linked in Retro-JS-Game README
 
 ## File Formats
 
